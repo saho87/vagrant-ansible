@@ -5,4 +5,4 @@
   tasks:
     - name: Verify Ansible is working
       ping:
----
+...
